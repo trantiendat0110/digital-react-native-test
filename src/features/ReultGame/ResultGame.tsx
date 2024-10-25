@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     color: 'red',
   },
   restartText: {
-    marginBottom: -100,
+    marginBottom: -120,
     marginTop: 70,
   },
 });
